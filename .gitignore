@@ -1,0 +1,23 @@
+# Unity
+Library/
+Temp/
+obj/
+Logs/
+
+# IDE
+.vscode/
+.gradle/
+.vs/
+
+# Function
+ProjectSettings/Function.asset
+
+# NatML
+ProjectSettings/NatML.asset
+ProjectSettings/NatMLHub.asset
+
+# VideoKit
+ProjectSettings/VideoKit.asset
+
+# Misc
+.DS_Store
